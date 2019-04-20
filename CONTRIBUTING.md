@@ -149,7 +149,6 @@ These are the required external dependencies for development:
 Start by getting the source code
 
     git clone https://github.com/raiden-network/raiden.git
-    cd raiden
 
 #### Install system wide dependencies
 
